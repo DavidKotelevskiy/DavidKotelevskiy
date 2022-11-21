@@ -42,11 +42,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/zOvBKUUEERdN
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
+  
   ### 	:framed_picture: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Co1dren&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Co1dren&theme=solarized_dark)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Davidkotelevskiy&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32BB67&width=435&lines=+Thanks+for+watching)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=213&pause=1000&color=1462F7&width=435&lines=Thanks+for+watching+me)](https://git.io/typing-svg)
