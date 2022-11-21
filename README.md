@@ -2,17 +2,15 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif?cid=790b7611862284cea558dd760977acec24268ede0c893ce9&rid=giphy.gif&ct=g" width="400"/>
 </div>
-<div id="viewprof" align="center">
-  <img src="https://img.shields.io/github/followers/Co1dren?style=social" alt=""/>
-</div>
+
 
 <div id="viewprof" align="center">
-<a href="https://www.twitch.tv/battlestategames/videos">
+<a href="https://www.twitch.tv/dunduk">
   <img src="https://img.shields.io/twitch/status/battlestategames?style=social" alt=""/>
 </div>
 
 <div id="viewprof" align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=Z9syc_Vyt1E">
   <img src="https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social" alt=""/>
 </div>
 
