@@ -1,6 +1,6 @@
 </div>
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/3oEjHERaTIdeuFQrXq/giphy.gif?cid=ecf05e471r6dgsh6x3ucl3c9tf662xjamst9iow3ngp2tva7&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media3.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif?cid=790b7611862284cea558dd760977acec24268ede0c893ce9&rid=giphy.gif&ct=g" width="400"/>
 </div>
 <div id="viewprof" align="center">
   <img src="https://img.shields.io/github/followers/Co1dren?style=social" alt=""/>
@@ -16,20 +16,20 @@
   <img src="https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social" alt=""/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/thanksfortheinputjeff" target="_blank">Igor</a> 
+<h1 align="center">Hello, I'm <a href="https://vk.com/the_unforgiven_ll" target="_blank">David</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 	:beer:</h3>
+<h3 align="center">Computer science student from Russia 	🐻:</h3>
 
 </div>
 <div align="center">
-  <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47pj9le0eqiac25796ss1rdupkzh04lyg30u5ax0g5&rid=giphy.gif&ct=g" width="500" height="300"/>
+  <img src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e478pn7w5kjuukz8vd8q586qwxnzbcoz64iroomelqn&rid=giphy.gif&ct=g" width="500" height="300"/>
 </div>
 
 ### 	:speech_balloon: About Me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> from Moscow.
-- :computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
-- :abacus:Exploring Technical Content Writing.
-- :guitar: In my free time, I study, play guitar and relax playing games
+- 🖱️: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
+- 📘:Exploring Technical Content Writing, reading books
+- 🎸: In my free time I like to play guitar solo in my rock band, go out with friends and play computer games
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
